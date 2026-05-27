@@ -1,27 +1,24 @@
 # 关于我 / About Me
 
-你好！我是 **夏叶** ，一个在数字世界中默默无闻的一片叶子。
+你好！我是 **零行** ，一个一直在从零开始、时而乐观又时而悲伤的笨鸟。
 
 ## 🛠️ 关于本站
 
-这个网站使用 **Astro** 框架构建，采用了 [Firefly](https://github.com/CuteLeaf/Firefly) 模板，Firefly 是基于 [Fuwari](https://github.com/saicaca/fuwari) 的二次开发。
-
-**Firefly** 是一款基于 Astro 框架和 Fuwari 模板开发的清新美观且现代化个人博客主题模板，专为技术爱好者和内容创作者设计。该主题融合了现代 Web 技术栈，提供了丰富的功能模块和高度可定制的界面，让您能够轻松打造出专业且美观的个人博客网站。
-
-
-**🖥️在线预览： [Firefly - Demo site](https://firefly.cuteleaf.cn/)**
-
-**🏠我的博客： [https://blog.cuteleaf.cn](https://blog.cuteleaf.cn/)**
-
-**📝Firefly使用文档： [https://docs-firefly.cuteleaf.cn](https://docs-firefly.cuteleaf.cn/)**
+这是我第一次搭建、部署自己的个人网站，使用的是 **CuteLeaf** 开发的静态博客主题模板 **流萤 / Firefly**。
 
 **⭐Firefly开源地址：[https://github.com/CuteLeaf/Firefly](https://github.com/CuteLeaf/Firefly)** 
 
-**⭐Fuwari开源地址：[https://github.com/saicaca/fuwari](https://github.com/saicaca/fuwari)**
+当然，具体的搭建过程跟的是B站 UP 主 **番茄煮理人** 的视频教程：
 
-::github{repo="CuteLeaf/Firefly"}
+**不用服务器，无需备案，零成本搭建一个自己的个人博客**：`https://www.bilibili.com/video/BV1hX9XBKEhm?spm_id_from=333.788.videopod.sections&vd_source=6e66ca1a5f496fed687f30d82ab9da99`
 
-::github{repo="saicaca/fuwari"}
+网站上更新的内容可能很多很杂，当然也有可能直接成为另一种形式的吃灰文件夹。自己做过测试工程师，所以目前的更新思路应该主要是和测试相关的文章，可能是一些新工具的使用、踩坑过程。
+
+但是肯定不会只更新和工作相关的，那不然多单一乏味，也希望这个网站能成为属于自己的数字生命体，能够从简单的文章内容窥探自己的点点滴滴
+
+必须在这里先记录下，这段内容是在 `content/spec/` 目录下的 `about.md` 找到的，花了我老半天了！
+
+**更新时间**：2026-05-27
 
 ---
 
