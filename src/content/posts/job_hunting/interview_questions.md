@@ -5,7 +5,7 @@ updated: 2026-06-05
 pinned: false
 description: 归档总结个人面试过程中出现的高频、有意思的面试题
 tags: [软件测试, 面试, 高频面试题]
-category: 是坑我就踩
+category: 求职系列
 draft: false
 image: ![](https://cdn.jsdelivr.net/gh/7Keep-Confi/img_bed_01/20260605151314773.png)
 ---
