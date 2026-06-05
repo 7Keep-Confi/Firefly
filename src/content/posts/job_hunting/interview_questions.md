@@ -7,7 +7,7 @@ description: 归档总结个人面试过程中出现的高频、有意思的面�
 tags: [软件测试, 面试, 高频面试题]
 category: 求职系列
 draft: false
-image: https://cdn.jsdelivr.net/gh/7Keep-Confi/img_bed_01/20260605155855722.png
+image: https://cdn.jsdelivr.net/gh/7Keep-Confi/img_bed_01/20260605160334245.png
 ---
 
 # 个人面试题汇总
